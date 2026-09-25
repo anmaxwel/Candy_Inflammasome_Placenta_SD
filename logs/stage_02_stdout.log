@@ -1,0 +1,68 @@
+All input checksums verified.
+
+FILTERING SUMMARY
+ input_genes retained_genes removed_genes retained_percent              filter
+       16399          16399             0              100 edgeR::filterByExpr
+                               group
+ Stage 01 inferred sex (Female/Male)
+
+LIBRARY / NORMALIZATION OUTLIERS (>3 robust MAD)
+ sample_id inferred_sex raw_library_size tmm_norm_factor
+   H-17257       Female          9781210       1.1614151
+   H-19124         Male         21541776       0.8470249
+   H-20385         Male         18649370       0.7870347
+ library_size_outlier_3mad norm_factor_outlier_3mad               author_note
+                      TRUE                    FALSE                          
+                     FALSE                     TRUE lot of brain samples high
+                     FALSE                     TRUE                          
+
+PCA VARIANCE
+ component variance_percent
+       PC1        25.916786
+       PC2        19.088736
+       PC3        10.562988
+       PC4         5.418081
+
+PCA ASSOCIATIONS (PC1-PC4)
+ component        covariate     association_metric     estimate    r_squared
+       PC1     inferred_sex male_minus_female_mean  17.06088478 0.0458853704
+       PC1          age_dpc              pearson_r  -0.11938641 0.0142531143
+       PC1 trig_as_reported              pearson_r  -0.29366952 0.0862417892
+       PC1   author_exclude           not_testable           NA           NA
+       PC2     inferred_sex male_minus_female_mean  -3.07349790 0.0020218129
+       PC2          age_dpc              pearson_r   0.10469907 0.0109618946
+       PC2 trig_as_reported              pearson_r  -0.07902203 0.0062444813
+       PC2   author_exclude           not_testable           NA           NA
+       PC3     inferred_sex male_minus_female_mean -14.17749100 0.0777435274
+       PC3          age_dpc              pearson_r  -0.01423398 0.0002026063
+       PC3 trig_as_reported              pearson_r   0.34128820 0.1164776343
+       PC3   author_exclude           not_testable           NA           NA
+       PC4     inferred_sex male_minus_female_mean  -3.15935117 0.0075266646
+       PC4          age_dpc              pearson_r   0.40289286 0.1623226542
+       PC4 trig_as_reported              pearson_r   0.02953222 0.0008721521
+       PC4   author_exclude           not_testable           NA           NA
+    p_value                                            status p_adjust_bh
+ 0.22379344                                            tested   0.5371043
+ 0.50125942                                            tested   0.8758307
+ 0.09184935                                            tested   0.3308934
+         NA single level: all included samples have exclude=n          NA
+ 0.80064922                                            tested   0.9363191
+ 0.55567115                                            tested   0.8758307
+ 0.65687300                                            tested   0.8758307
+         NA single level: all included samples have exclude=n          NA
+ 0.11029779                                            tested   0.3308934
+ 0.93631908                                            tested   0.9363191
+ 0.04822729                                            tested   0.2893637
+         NA single level: all included samples have exclude=n          NA
+ 0.62564055                                            tested   0.8758307
+ 0.01815262                                            tested   0.2178314
+ 0.86831759                                            tested   0.9363191
+         NA single level: all included samples have exclude=n          NA
+
+MANDATORY GLOBAL-SHIFT SANITY CHECK
+              coefficient n_filtered_genes mean_moderated_t median_moderated_t
+ sexMale (male vs female)            16399       0.05077799         0.09842399
+ sd_moderated_t fraction_positive threshold_abs_mean_t pass normalization
+      0.9327644         0.5438746                  0.1 TRUE    TMM + voom
+                                                          design
+ ~ inferred_sex + scale(trig_as_reported_log10) + scale(age_dpc)

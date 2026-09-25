@@ -1,0 +1,4 @@
+rank_by_selected_gene_count	go_id	term_name	selected_deg_in_term	measured_term_genes	fisher_nominal_p	nominally_enriched_p_lt_0_05	selected_gene_symbols	figure
+1	GO:1900227	positive regulation of NLRP3 inflammasome complex assembly	7	27	0.142745292212393	FALSE	ADCY7; DDX3X; KCNK6; LATS1; PRKD1; USP50; ZDHHC1	figures/paper_04_circle_GO_1900227.png
+2	GO:0032731	positive regulation of interleukin-1 beta production	6	52	0.877348822927997	FALSE	GSDMD; NLRP1; NOD2; TLR8; TYROBP; USP50	figures/paper_05_circle_GO_0032731.png
+3	GO:0070269	pyroptotic inflammatory response	5	24	0.359284254336665	FALSE	CASP3; DHX9; GSDMD; NLRP1; TREM2	figures/paper_06_circle_GO_0070269.png

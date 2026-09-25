@@ -1,0 +1,2 @@
+metric	cutoff	gap_low	gap_high	n_inside_open_gap	rule_for_male
+log2(mean(DDX3Y, PCDH11Y) CPM + 0.5) - log2(XIST CPM + 0.5)	-3.64465643454977	-5.5074164292882	-1.78189643981134	0	score > cutoff

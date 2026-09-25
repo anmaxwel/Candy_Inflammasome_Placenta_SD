@@ -1,0 +1,19 @@
+Package: GSE188872PlacentaInflammasome
+Type: Project
+Title: GSE188872 Placental Inflammasome Sexual-Dimorphism Analysis
+Version: 0.0.1
+Authors@R: person("Anthony", "Maxwell", role = c("aut", "cre"), email = "anmaxwel@users.noreply.github.com")
+Description: Reproducible staged analysis of fetal placental RNA-seq from
+    GSE188872, with an electronic lab notebook and explicit review gates.
+License: file LICENSE
+Encoding: UTF-8
+Imports:
+    AnnotationDbi,
+    BiocManager,
+    DESeq2,
+    edgeR,
+    fgsea,
+    ggplot2,
+    GO.db,
+    limma,
+    org.Hs.eg.db

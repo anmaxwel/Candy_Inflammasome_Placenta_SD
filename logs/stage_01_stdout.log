@@ -1,0 +1,75 @@
+All input checksums verified.
+
+ID MAPPING SUMMARY
+                           comparison  n
+     count_columns_to_GitHub_metadata 34
+        GitHub_metadata_not_in_counts  7
+ count_samples_not_in_GitHub_metadata  0
+   GEO_placenta_samples_not_in_counts  2
+    count_samples_not_in_GEO_placenta  1
+                                                                                                                                                                                                                                                                      sample_ids
+ H-16680;H-16681;H-16682;H-16730;H-16737;H-16849;H-17255;H-17257;H-17259;H-17392;H-17394;H-17410;H-17417;H-17606;H-17612;H-18496;H-19124;H-19125;H-19283;H-19600;H-19760;H-19764;H-19856;H-19931;H-20336;H-20381;H-20385;H-20442;H-20748;H-20815;H-20818;H-20819;H-20820;H-21027
+                                                                                                                                                                                                                         H-17254;H-17420;H-19762;H-20440;H-20738;H-20741;H-20827
+                                                                                                                                                                                                                                                                                
+                                                                                                                                                                                                                                                                 H-17254;H-17420
+                                                                                                                                                                                                                                                                         H-19760
+
+SEX MARKER PRESENCE
+    gene present_raw_counts present_tpm raw_count_min raw_count_max    cpm_min
+    XIST               TRUE        TRUE           273         91718 11.0651627
+  RPS4Y1              FALSE       FALSE            NA            NA         NA
+   DDX3Y               TRUE       FALSE            16          3468  0.8918880
+   KDM5D              FALSE       FALSE            NA            NA         NA
+     UTY              FALSE       FALSE            NA            NA         NA
+  EIF1AY              FALSE       FALSE            NA            NA         NA
+   USP9Y              FALSE       FALSE            NA            NA         NA
+     ZFY              FALSE       FALSE            NA            NA         NA
+ PCDH11Y               TRUE        TRUE            44          3612  0.7732394
+   cpm_max
+ 2339.8111
+        NA
+  100.9202
+        NA
+        NA
+        NA
+        NA
+        NA
+  115.9857
+
+ANNOTATED x INFERRED SEX
+         Inferred
+Annotated Female Male
+   Female     18    0
+   Male        4   12
+
+DISCORDANT SAMPLES
+ sample_id annotated_sex inferred_sex
+   H-16682          Male       Female
+   H-16849          Male       Female
+   H-17417          Male       Female
+   H-17606          Male       Female
+
+FROZEN SAMPLE SETS
+             Inferred
+Set           Female Male
+  PRIMARY         22   12
+  SENSITIVITY     18   12
+
+COVARIATE BALANCE (PRIMARY)
+                          variable male_n male_median  male_iqr female_n
+               gestational_age_dpc     12  80.0000000 2.0000000       22
+ trig_as_reported_GEO_labels_log10     12   0.9196596 0.4814371       22
+ female_median female_iqr              test    p_value
+     79.500000  5.5000000 Wilcoxon rank-sum 0.71191579
+      1.207094  0.3258416 Wilcoxon rank-sum 0.02009356
+
+AUTHOR EXCLUDE FLAGS IN COUNT MATRIX
+
+ n 
+34 
+
+SEX CALL CUTOFFS
+                                                      metric    cutoff
+ log2(mean(DDX3Y, PCDH11Y) CPM + 0.5) - log2(XIST CPM + 0.5) -3.644656
+   gap_low  gap_high n_inside_open_gap  rule_for_male
+ -5.507416 -1.781896                 0 score > cutoff

@@ -1,0 +1,42 @@
+analysis_scope	go_id	ontology	term_name	universe_genes	selected_deg_genes	measured_term_genes	selected_deg_in_term	expected_selected_in_term	fold_enrichment	fisher_nominal_p	male_higher_genes	female_higher_genes	selected_gene_symbols	nominally_enriched_p_lt_0_05	branch_scope
+PAPER_REPRODUCTION_INFLAMMASOME_P_LFC	GO:0032691	BP	negative regulation of interleukin-1 beta production	16399	541	27	1	0.890725044210013	1.12268090641473	0.596056318683402	1	0	APOA1	FALSE	Downstream cytokine tier
+PAPER_REPRODUCTION_INFLAMMASOME_P_LFC	GO:0032731	BP	positive regulation of interleukin-1 beta production	16399	541	52	1	1.71547045551558	0.582930470638419	0.825733498089162	1	0	TLR8	FALSE	Downstream cytokine tier
+PAPER_REPRODUCTION_INFLAMMASOME_P_LFC	GO:0097169	BP	AIM2 inflammasome complex	16399	541	3	0	0.0989694493566681	0		0	0		FALSE	Assembly / activation core
+PAPER_REPRODUCTION_INFLAMMASOME_P_LFC	GO:0140970	BP	AIM2 inflammasome complex assembly	16399	541	2	0	0.0659796329044454	0		0	0		FALSE	Assembly / activation core
+PAPER_REPRODUCTION_INFLAMMASOME_P_LFC	GO:0140634	BP	CARD8 inflammasome complex	16399	541	1	0	0.0329898164522227	0		0	0		FALSE	Assembly / activation core
+PAPER_REPRODUCTION_INFLAMMASOME_P_LFC	GO:0140633	BP	CARD8 inflammasome complex assembly	16399	541	1	0	0.0329898164522227	0		0	0		FALSE	Assembly / activation core
+PAPER_REPRODUCTION_INFLAMMASOME_P_LFC	GO:0072557	BP	IPAF inflammasome complex	16399	541	3	0	0.0989694493566681	0		0	0		FALSE	Assembly / activation core
+PAPER_REPRODUCTION_INFLAMMASOME_P_LFC	GO:0072558	BP	NLRP1 inflammasome complex	16399	541	4	0	0.131959265808891	0		0	0		FALSE	Assembly / activation core
+PAPER_REPRODUCTION_INFLAMMASOME_P_LFC	GO:1904784	BP	NLRP1 inflammasome complex assembly	16399	541	1	0	0.0329898164522227	0		0	0		FALSE	Assembly / activation core
+PAPER_REPRODUCTION_INFLAMMASOME_P_LFC	GO:0072559	BP	NLRP3 inflammasome complex	16399	541	8	0	0.263918531617782	0		0	0		FALSE	Assembly / activation core
+PAPER_REPRODUCTION_INFLAMMASOME_P_LFC	GO:0044546	BP	NLRP3 inflammasome complex assembly	16399	541	6	0	0.197938898713336	0		0	0		FALSE	Assembly / activation core
+PAPER_REPRODUCTION_INFLAMMASOME_P_LFC	GO:0140738	BP	NLRP6 inflammasome complex	16399	541	1	0	0.0329898164522227	0		0	0		FALSE	Assembly / activation core
+PAPER_REPRODUCTION_INFLAMMASOME_P_LFC	GO:0140739	BP	NLRP6 inflammasome complex assembly	16399	541	0	0	0			0	0		FALSE	Assembly / activation core
+PAPER_REPRODUCTION_INFLAMMASOME_P_LFC	GO:0061702	BP	canonical inflammasome complex	16399	541	10	0	0.329898164522227	0		0	0		FALSE	Assembly / activation core
+PAPER_REPRODUCTION_INFLAMMASOME_P_LFC	GO:0140632	BP	canonical inflammasome complex assembly	16399	541	2	0	0.0659796329044454	0		0	0		FALSE	Assembly / activation core
+PAPER_REPRODUCTION_INFLAMMASOME_P_LFC	GO:1902483	BP	cytotoxic T cell pyroptotic cell death	16399	541	1	0	0.0329898164522227	0		0	0		FALSE	Assembly / activation core
+PAPER_REPRODUCTION_INFLAMMASOME_P_LFC	GO:0141084	BP	inflammasome-mediated signaling pathway	16399	541	0	0	0			0	0		FALSE	Assembly / activation core
+PAPER_REPRODUCTION_INFLAMMASOME_P_LFC	GO:0032611	BP	interleukin-1 beta production	16399	541	0	0	0			0	0		FALSE	Downstream cytokine tier
+PAPER_REPRODUCTION_INFLAMMASOME_P_LFC	GO:0032621	BP	interleukin-18 production	16399	541	0	0	0			0	0		FALSE	Downstream cytokine tier
+PAPER_REPRODUCTION_INFLAMMASOME_P_LFC	GO:0140972	BP	negative regulation of AIM2 inflammasome complex assembly	16399	541	2	0	0.0659796329044454	0		0	0		FALSE	Assembly / activation core
+PAPER_REPRODUCTION_INFLAMMASOME_P_LFC	GO:1900226	BP	negative regulation of NLRP3 inflammasome complex assembly	16399	541	13	0	0.428867613878895	0		0	0		FALSE	Assembly / activation core
+PAPER_REPRODUCTION_INFLAMMASOME_P_LFC	GO:0141086	BP	negative regulation of inflammasome-mediated signaling pathway	16399	541	0	0	0			0	0		FALSE	Assembly / activation core
+PAPER_REPRODUCTION_INFLAMMASOME_P_LFC	GO:0032701	BP	negative regulation of interleukin-18 production	16399	541	1	0	0.0329898164522227	0		0	0		FALSE	Downstream cytokine tier
+PAPER_REPRODUCTION_INFLAMMASOME_P_LFC	GO:0160076	BP	negative regulation of non-canonical inflammasome complex assembly	16399	541	1	0	0.0329898164522227	0		0	0		FALSE	Assembly / activation core
+PAPER_REPRODUCTION_INFLAMMASOME_P_LFC	GO:0160028	BP	negative regulation of pyroptotic inflammatory response	16399	541	0	0	0			0	0		FALSE	Assembly / activation core
+PAPER_REPRODUCTION_INFLAMMASOME_P_LFC	GO:0160074	BP	non-canonical inflammasome complex	16399	541	1	0	0.0329898164522227	0		0	0		FALSE	Assembly / activation core
+PAPER_REPRODUCTION_INFLAMMASOME_P_LFC	GO:0160075	BP	non-canonical inflammasome complex assembly	16399	541	3	0	0.0989694493566681	0		0	0		FALSE	Assembly / activation core
+PAPER_REPRODUCTION_INFLAMMASOME_P_LFC	GO:0140973	BP	positive regulation of AIM2 inflammasome complex assembly	16399	541	2	0	0.0659796329044454	0		0	0		FALSE	Assembly / activation core
+PAPER_REPRODUCTION_INFLAMMASOME_P_LFC	GO:1900227	BP	positive regulation of NLRP3 inflammasome complex assembly	16399	541	27	0	0.890725044210013	0		0	0		FALSE	Assembly / activation core
+PAPER_REPRODUCTION_INFLAMMASOME_P_LFC	GO:0141087	BP	positive regulation of inflammasome-mediated signaling pathway	16399	541	0	0	0			0	0		FALSE	Assembly / activation core
+PAPER_REPRODUCTION_INFLAMMASOME_P_LFC	GO:0032741	BP	positive regulation of interleukin-18 production	16399	541	6	0	0.197938898713336	0		0	0		FALSE	Downstream cytokine tier
+PAPER_REPRODUCTION_INFLAMMASOME_P_LFC	GO:0140639	BP	positive regulation of pyroptotic inflammatory response	16399	541	9	0	0.296908348070004	0		0	0		FALSE	Assembly / activation core
+PAPER_REPRODUCTION_INFLAMMASOME_P_LFC	GO:0141201	BP	pyroptotic cell death	16399	541	3	0	0.0989694493566681	0		0	0		FALSE	Assembly / activation core
+PAPER_REPRODUCTION_INFLAMMASOME_P_LFC	GO:0070269	BP	pyroptotic inflammatory response	16399	541	24	0	0.791755594853345	0		0	0		FALSE	Assembly / activation core
+PAPER_REPRODUCTION_INFLAMMASOME_P_LFC	GO:0140971	BP	regulation of AIM2 inflammasome complex assembly	16399	541	0	0	0			0	0		FALSE	Assembly / activation core
+PAPER_REPRODUCTION_INFLAMMASOME_P_LFC	GO:1900225	BP	regulation of NLRP3 inflammasome complex assembly	16399	541	1	0	0.0329898164522227	0		0	0		FALSE	Assembly / activation core
+PAPER_REPRODUCTION_INFLAMMASOME_P_LFC	GO:0141085	BP	regulation of inflammasome-mediated signaling pathway	16399	541	0	0	0			0	0		FALSE	Assembly / activation core
+PAPER_REPRODUCTION_INFLAMMASOME_P_LFC	GO:0032651	BP	regulation of interleukin-1 beta production	16399	541	9	0	0.296908348070004	0		0	0		FALSE	Downstream cytokine tier
+PAPER_REPRODUCTION_INFLAMMASOME_P_LFC	GO:0032661	BP	regulation of interleukin-18 production	16399	541	1	0	0.0329898164522227	0		0	0		FALSE	Downstream cytokine tier
+PAPER_REPRODUCTION_INFLAMMASOME_P_LFC	GO:0141079	BP	symbiont-mediated activation of host inflammasome-mediated signal transduction	16399	541	0	0	0			0	0		FALSE	Assembly / activation core
+PAPER_REPRODUCTION_INFLAMMASOME_P_LFC	GO:0141081	BP	symbiont-mediated suppression of host inflammasome-mediated signal transduction	16399	541	0	0	0			0	0		FALSE	Assembly / activation core

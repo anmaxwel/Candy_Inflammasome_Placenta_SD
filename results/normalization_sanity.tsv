@@ -1,0 +1,2 @@
+coefficient	n_filtered_genes	mean_moderated_t	median_moderated_t	sd_moderated_t	fraction_positive	threshold_abs_mean_t	pass	normalization	design
+sexMale (male vs female)	16399	0.0507779935764094	0.0984239879814452	0.932764397081475	0.543874626501616	0.1	TRUE	TMM + voom	~ inferred_sex + scale(trig_as_reported_log10) + scale(age_dpc)

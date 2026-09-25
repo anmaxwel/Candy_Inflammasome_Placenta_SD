@@ -1,0 +1,10 @@
+parameter	value
+random_seed	42
+primary_samples	34
+female_samples	22
+male_samples	12
+trig_scale	already log10 as deposited; no second log applied
+filter	edgeR::filterByExpr(group=inferred sex)
+normalization	edgeR TMM
+voom_design	~ inferred_sex + scale(trig_as_reported) + scale(age_dpc)
+outlier_rule	absolute robust z > 3 using median/MAD on log2 metric

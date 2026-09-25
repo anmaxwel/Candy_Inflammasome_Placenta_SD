@@ -1,0 +1,2 @@
+input_genes	retained_genes	removed_genes	retained_percent	filter	group
+16399	16399	0	100	edgeR::filterByExpr	Stage 01 inferred sex (Female/Male)

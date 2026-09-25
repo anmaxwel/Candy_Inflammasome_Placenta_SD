@@ -1,0 +1,2 @@
+sample_id	sex_disagrees	age_disagrees	trig_disagrees	github_sex	geo_sex	github_age	geo_age	github_trig	geo_log10_trig
+H-17420	TRUE	FALSE	FALSE	Male	Female	74	74	1.101196298	1.10119629781904

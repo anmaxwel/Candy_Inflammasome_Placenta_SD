@@ -1,0 +1,12 @@
+metric	value
+reported_female_samples	18
+reported_male_samples	16
+tested_genes	16399
+nominal_p_lt_0_05_genes	2697
+paper_rule_degs	541
+paper_rule_male_higher	203
+paper_rule_female_higher	338
+paper_figure10_genes_nominal_p_lt_0_05	41
+general_bp_terms_nominal_p_lt_0_05	853
+inflammasome_terms_p_lfc_nominal_fisher_lt_0_05	0
+inflammasome_terms_nominal_only_fisher_lt_0_05	0

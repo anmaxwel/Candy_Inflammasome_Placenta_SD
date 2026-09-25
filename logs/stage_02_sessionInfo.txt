@@ -1,0 +1,36 @@
+timestamp: 2026-09-24 13:34:24 EDT
+git_sha_at_execution: 1c572e6abe04827e5ea91279fc55a4ac987dd8fa
+project_root: C:/Users/antho/Desktop/git_repos/Candy_Inflammasome_Placenta_SD
+R_USER: C:\Users\antho\Desktop\git_repos\Candy_Inflammasome_Placenta_SD\.r-user
+R_LIBS_USER: C:/Users/antho/Desktop/git_repos/Candy_Inflammasome_Placenta_SD/renv/library/windows/R-4.6/x86_64-w64-mingw32
+TEMP: C:\Users\antho\Desktop\git_repos\Candy_Inflammasome_Placenta_SD\.r-tmp
+
+R version 4.6.1 (2026-06-24 ucrt)
+Platform: x86_64-w64-mingw32/x64
+Running under: Windows 11 x64 (build 26200)
+
+Matrix products: default
+  LAPACK version 3.12.1
+
+locale:
+[1] LC_COLLATE=English_United States.utf8 
+[2] LC_CTYPE=English_United States.utf8   
+[3] LC_MONETARY=English_United States.utf8
+[4] LC_NUMERIC=C                          
+[5] LC_TIME=English_United States.utf8    
+
+time zone: America/New_York
+tzcode source: internal
+
+attached base packages:
+[1] stats     graphics  grDevices datasets  utils     methods   base     
+
+loaded via a namespace (and not attached):
+ [1] labeling_0.4.3      RColorBrewer_1.1-3  R6_2.6.1           
+ [4] lattice_0.22-9      farver_2.1.2        gtable_0.3.6       
+ [7] limma_3.68.5        glue_1.8.1          lifecycle_1.0.5    
+[10] ggplot2_4.0.3       cli_3.6.6           S7_0.2.2           
+[13] scales_1.4.0        vctrs_0.7.3         grid_4.6.1         
+[16] withr_3.0.3         renv_1.2.4          statmod_1.5.2      
+[19] compiler_4.6.1      tools_4.6.1         locfit_1.5-9.12    
+[22] BiocManager_1.30.27 rlang_1.3.0         edgeR_4.10.5       

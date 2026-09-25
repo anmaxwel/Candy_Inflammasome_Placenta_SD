@@ -1,0 +1,17 @@
+component	covariate	association_metric	estimate	r_squared	p_value	status	p_adjust_bh
+PC1	inferred_sex	male_minus_female_mean	17.0608847785988	0.0458853704453146	0.223793439871939	tested	0.537104255692652
+PC1	age_dpc	pearson_r	-0.119386407514993	0.014253114299336	0.501259415693184	tested	0.875830665277963
+PC1	trig_as_reported	pearson_r	-0.29366952375771	0.08624178918408	0.0918493511508159	tested	0.330893377800076
+PC1	author_exclude	not_testable				single level: all included samples have exclude=n	
+PC2	inferred_sex	male_minus_female_mean	-3.07349789836393	0.00202181288852076	0.800649224369025	tested	0.936319082722336
+PC2	age_dpc	pearson_r	0.10469906675746	0.0109618945798831	0.555671153849661	tested	0.875830665277963
+PC2	trig_as_reported	pearson_r	-0.0790220304735056	0.00624448130015565	0.656872998958472	tested	0.875830665277963
+PC2	author_exclude	not_testable				single level: all included samples have exclude=n	
+PC3	inferred_sex	male_minus_female_mean	-14.1774909966222	0.0777435273535868	0.110297792600025	tested	0.330893377800076
+PC3	age_dpc	pearson_r	-0.0142339827858472	0.000202606265947795	0.936319082722336	tested	0.936319082722336
+PC3	trig_as_reported	pearson_r	0.341288198356408	0.116477634337363	0.0482272886835363	tested	0.289363732101218
+PC3	author_exclude	not_testable				single level: all included samples have exclude=n	
+PC4	inferred_sex	male_minus_female_mean	-3.1593511685064	0.007526664608245	0.625640553145843	tested	0.875830665277963
+PC4	age_dpc	pearson_r	0.402892856949536	0.162322654180959	0.0181526190240755	tested	0.217831428288906
+PC4	trig_as_reported	pearson_r	0.0295322217995939	0.000872152124420411	0.868317594535294	tested	0.936319082722336
+PC4	author_exclude	not_testable				single level: all included samples have exclude=n	

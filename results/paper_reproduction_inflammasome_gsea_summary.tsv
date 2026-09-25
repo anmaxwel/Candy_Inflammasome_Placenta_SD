@@ -1,0 +1,7 @@
+metric	value
+ranked_genes	16399
+inflammasome_terms_total	41
+inflammasome_terms_gsea_eligible	11
+inflammasome_terms_nominal_p_lt_0_05	3
+male_higher_nominal_terms	0
+female_higher_nominal_terms	3

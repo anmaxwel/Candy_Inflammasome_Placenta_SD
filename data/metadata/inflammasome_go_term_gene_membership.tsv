@@ -1,0 +1,416 @@
+go_id	annotation_ontology	evidence	entrez_id	gene	ontology	term_name	selection_role	matched_query_ids	matched_query_strings	source_seed_ids	in_core_branch	in_downstream_branch	is_anchor	present_in_deposited_matrix	retained_filterByExpr
+GO:0032651	BP	IEA	384	ARG2	BP	regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032651	BP	IEA	114769	CARD16	BP	regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032651	BP	IEA	440068	CARD17P	BP	regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651	FALSE	TRUE	FALSE	FALSE	FALSE
+GO:0032651	BP	IEA	59082	CARD18	BP	regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032651	BP	IEA	1236	CCR7	BP	regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032651	BP	ISS	1236	CCR7	BP	regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032651	BP	ISS	2149	F2R	BP	regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032651	BP	IDA	27086	FOXP1	BP	regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032651	BP	IMP	4210	MEFV	BP	regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032651	BP	IDA	494323	MIR361	BP	regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651	FALSE	TRUE	FALSE	FALSE	FALSE
+GO:0032651	BP	IEA	55655	NLRP2	BP	regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032651	BP	IEA	152138	PYDC2	BP	regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651	FALSE	TRUE	FALSE	FALSE	FALSE
+GO:0032651	BP	ISS	140885	SIRPA	BP	regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032661	BP	NAS	91662	NLRP12	BP	regulation of interleukin-18 production	seed	interleukin_18_production	interleukin-18 production	GO:0032621; GO:0032661	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032691	BP	IDA	335	APOA1	BP	negative regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032691	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032691	BP	IEA	409	ARRB2	BP	negative regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032691	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032691	BP	IDA	114769	CARD16	BP	negative regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032691	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032691	BP	IDA	440068	CARD17P	BP	negative regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032691	FALSE	TRUE	FALSE	FALSE	FALSE
+GO:0032691	BP	IDA	59082	CARD18	BP	negative regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032691	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032691	BP	IDA	22900	CARD8	BP	negative regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032691	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032691	BP	IMP	945	CD33	BP	negative regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032691	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032691	BP	IEA	80772	CPTP	BP	negative regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032691	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032691	BP	IMP	80772	CPTP	BP	negative regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032691	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032691	BP	TAS	6376	CX3CL1	BP	negative regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032691	FALSE	TRUE	FALSE	FALSE	FALSE
+GO:0032691	BP	ISS	1524	CX3CR1	BP	negative regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032691	FALSE	TRUE	FALSE	FALSE	FALSE
+GO:0032691	BP	IEA	2000	ELF4	BP	negative regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032691	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032691	BP	IMP	2000	ELF4	BP	negative regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032691	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032691	BP	IEA	54206	ERRFI1	BP	negative regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032691	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032691	BP	IMP	2864	FFAR1	BP	negative regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032691	FALSE	TRUE	FALSE	FALSE	FALSE
+GO:0032691	BP	IMP	338557	FFAR4	BP	negative regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032691	FALSE	TRUE	FALSE	FALSE	FALSE
+GO:0032691	BP	IDA	51738	GHRL	BP	negative regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032691	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032691	BP	IEA	51738	GHRL	BP	negative regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032691	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032691	BP	IDA	2693	GHSR	BP	negative regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032691	FALSE	TRUE	FALSE	FALSE	FALSE
+GO:0032691	BP	IEA	28964	GIT1	BP	negative regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032691	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032691	BP	ISS	28964	GIT1	BP	negative regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032691	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032691	BP	IEA	388323	GLTPD2	BP	negative regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032691	FALSE	TRUE	FALSE	FALSE	FALSE
+GO:0032691	BP	IDA	2950	GSTP1	BP	negative regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032691	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032691	BP	IGI	3479	IGF1	BP	negative regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032691	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032691	BP	NAS	3553	IL1B	BP	negative regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032691	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032691	BP	NAS	7850	IL1R2	BP	negative regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032691	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032691	BP	NAS	3556	IL1RAP	BP	negative regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032691	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032691	BP	IMP	11006	LILRB4	BP	negative regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032691	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032691	BP	IMP	4210	MEFV	BP	negative regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032691	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032691	BP	IMP	406893	MIR101-1	BP	negative regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032691	FALSE	TRUE	FALSE	FALSE	FALSE
+GO:0032691	BP	ISS	406921	MIR132	BP	negative regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032691	FALSE	TRUE	FALSE	FALSE	FALSE
+GO:0032691	BP	IDA	406954	MIR181A2	BP	negative regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032691	FALSE	TRUE	FALSE	FALSE	FALSE
+GO:0032691	BP	IDA	574457	MIR181D	BP	negative regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032691	FALSE	TRUE	FALSE	FALSE	FALSE
+GO:0032691	BP	ISS	406971	MIR195	BP	negative regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032691	FALSE	TRUE	FALSE	FALSE	FALSE
+GO:0032691	BP	IDA	406987	MIR204	BP	negative regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032691	FALSE	TRUE	FALSE	FALSE	FALSE
+GO:0032691	BP	IDA	407019	MIR27B	BP	negative regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032691	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032691	BP	IDA	574441	MIR488	BP	negative regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032691	FALSE	TRUE	FALSE	FALSE	FALSE
+GO:0032691	BP	IMP	100126333	MIR708	BP	negative regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032691	FALSE	TRUE	FALSE	FALSE	FALSE
+GO:0032691	BP	IDA	768218	MIR766	BP	negative regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032691	FALSE	TRUE	FALSE	FALSE	FALSE
+GO:0032691	BP	IDA	100126314	MIR877	BP	negative regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032691	FALSE	TRUE	FALSE	FALSE	FALSE
+GO:0032691	BP	IDA	100126320	MIR920	BP	negative regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032691	FALSE	TRUE	FALSE	FALSE	FALSE
+GO:0032691	BP	IDA	407054	MIR98	BP	negative regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032691	FALSE	TRUE	FALSE	FALSE	FALSE
+GO:0032691	BP	IMP	114548	NLRP3	BP	negative regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032691	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032691	BP	IBA	199713	NLRP7	BP	negative regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032691	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032691	BP	IMP	199713	NLRP7	BP	negative regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032691	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032691	BP	IEA	5371	PML	BP	negative regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032691	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032691	BP	IMP	152138	PYDC2	BP	negative regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032691	FALSE	TRUE	FALSE	FALSE	FALSE
+GO:0032691	BP	IEA	5885	RAD21	BP	negative regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032691	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032691	BP	IBA	1992	SERPINB1	BP	negative regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032691	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032691	BP	IEA	1992	SERPINB1	BP	negative regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032691	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032691	BP	IMP	1992	SERPINB1	BP	negative regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032691	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032691	BP	IEA	7128	TNFAIP3	BP	negative regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032691	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032691	BP	IMP	7128	TNFAIP3	BP	negative regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032691	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032691	BP	IEA	54209	TREM2	BP	negative regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032691	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032691	BP	IEA	80149	ZC3H12A	BP	negative regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032691	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032691	BP	ISS	80149	ZC3H12A	BP	negative regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032691	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032701	BP	IDA	8832	CD84	BP	negative regulation of interleukin-18 production	seed	interleukin_18_production	interleukin-18 production	GO:0032621; GO:0032661; GO:0032701	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032701	BP	TAS	3586	IL10	BP	negative regulation of interleukin-18 production	seed	interleukin_18_production	interleukin-18 production	GO:0032621; GO:0032661; GO:0032701	FALSE	TRUE	FALSE	FALSE	FALSE
+GO:0032701	BP	IDA	406974	MIR197	BP	negative regulation of interleukin-18 production	seed	interleukin_18_production	interleukin-18 production	GO:0032621; GO:0032661; GO:0032701	FALSE	TRUE	FALSE	FALSE	FALSE
+GO:0032701	BP	IDA	693121	MIR411	BP	negative regulation of interleukin-18 production	seed	interleukin_18_production	interleukin-18 production	GO:0032621; GO:0032661; GO:0032701	FALSE	TRUE	FALSE	FALSE	FALSE
+GO:0032731	BP	IEA	177	AGER	BP	positive regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032731	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032731	BP	ISS	177	AGER	BP	positive regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032731	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032731	BP	IDA	9447	AIM2	BP	positive regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032731	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032731	BP	IEA	9447	AIM2	BP	positive regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032731	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032731	BP	IGI	351	APP	BP	positive regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032731	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032731	BP	IDA	566	AZU1	BP	positive regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032731	FALSE	TRUE	FALSE	FALSE	FALSE
+GO:0032731	BP	IEA	820	CAMP	BP	positive regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032731	FALSE	TRUE	FALSE	FALSE	FALSE
+GO:0032731	BP	IDA	22900	CARD8	BP	positive regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032731	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032731	BP	IDA	834	CASP1	BP	positive regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032731	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032731	BP	IEA	834	CASP1	BP	positive regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032731	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032731	BP	IMP	834	CASP1	BP	positive regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032731	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032731	BP	NAS	834	CASP1	BP	positive regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032731	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032731	BP	IMP	841	CASP8	BP	positive regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032731	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032731	BP	ISS	6363	CCL19	BP	positive regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032731	FALSE	TRUE	FALSE	FALSE	FALSE
+GO:0032731	BP	ISS	6348	CCL3	BP	positive regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032731	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032731	BP	IEA	948	CD36	BP	positive regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032731	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032731	BP	ISS	948	CD36	BP	positive regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032731	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032731	BP	IDA	64581	CLEC7A	BP	positive regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032731	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032731	BP	IEA	1958	EGR1	BP	positive regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032731	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032731	BP	ISS	1958	EGR1	BP	positive regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032731	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032731	BP	IDA	2150	F2RL1	BP	positive regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032731	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032731	BP	IEA	7855	FZD5	BP	positive regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032731	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032731	BP	ISS	7855	FZD5	BP	positive regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032731	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032731	BP	IEA	115362	GBP5	BP	positive regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032731	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032731	BP	IMP	115362	GBP5	BP	positive regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032731	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032731	BP	IEA	79792	GSDMD	BP	positive regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032731	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032731	BP	ISS	79792	GSDMD	BP	positive regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032731	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032731	BP	IEA	3098	HK1	BP	positive regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032731	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032731	BP	IEA	3146	HMGB1	BP	positive regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032731	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032731	BP	IEA	3315	HSPB1	BP	positive regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032731	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032731	BP	ISS	3315	HSPB1	BP	positive regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032731	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032731	BP	IDA	3428	IFI16	BP	positive regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032731	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032731	BP	ISS	3458	IFNG	BP	positive regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032731	FALSE	TRUE	FALSE	FALSE	FALSE
+GO:0032731	BP	IDA	3605	IL17A	BP	positive regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032731	FALSE	TRUE	FALSE	FALSE	FALSE
+GO:0032731	BP	IGI	3569	IL6	BP	positive regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032731	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032731	BP	IMP	55765	INAVA	BP	positive regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032731	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032731	BP	IEA	3670	ISL1	BP	positive regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032731	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032731	BP	ISS	3670	ISL1	BP	positive regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032731	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032731	BP	IEA	3717	JAK2	BP	positive regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032731	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032731	BP	ISS	3717	JAK2	BP	positive regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032731	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032731	BP	IDA	3965	LGALS9	BP	positive regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032731	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032731	BP	IDA	11027	LILRA2	BP	positive regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032731	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032731	BP	IDA	353514	LILRA5	BP	positive regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032731	FALSE	TRUE	FALSE	FALSE	FALSE
+GO:0032731	BP	IEA	4023	LPL	BP	positive regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032731	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032731	BP	ISS	4023	LPL	BP	positive regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032731	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032731	BP	IMP	10892	MALT1	BP	positive regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032731	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032731	BP	IDA	4210	MEFV	BP	positive regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032731	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032731	BP	IEA	4210	MEFV	BP	positive regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032731	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032731	BP	IDA	406936	MIR144	BP	positive regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032731	FALSE	TRUE	FALSE	FALSE	FALSE
+GO:0032731	BP	IDA	406989	MIR206	BP	positive regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032731	FALSE	TRUE	FALSE	FALSE	FALSE
+GO:0032731	BP	IDA	4615	MYD88	BP	positive regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032731	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032731	BP	NAS	4671	NAIP	BP	positive regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032731	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032731	BP	IEA	58484	NLRC4	BP	positive regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032731	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032731	BP	IGI	58484	NLRC4	BP	positive regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032731	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032731	BP	NAS	58484	NLRC4	BP	positive regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032731	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032731	BP	IDA	22861	NLRP1	BP	positive regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032731	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032731	BP	IEA	22861	NLRP1	BP	positive regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032731	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032731	BP	ISS	22861	NLRP1	BP	positive regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032731	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032731	BP	NAS	91662	NLRP12	BP	positive regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032731	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032731	BP	IDA	55655	NLRP2	BP	positive regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032731	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032731	BP	IDA	114548	NLRP3	BP	positive regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032731	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032731	BP	IEA	114548	NLRP3	BP	positive regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032731	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032731	BP	IMP	114548	NLRP3	BP	positive regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032731	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032731	BP	IEA	10392	NOD1	BP	positive regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032731	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032731	BP	IDA	64127	NOD2	BP	positive regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032731	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032731	BP	IEA	64127	NOD2	BP	positive regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032731	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032731	BP	IMP	64127	NOD2	BP	positive regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032731	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032731	BP	IDA	5004	ORM1	BP	positive regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032731	FALSE	TRUE	FALSE	FALSE	FALSE
+GO:0032731	BP	IEA	5004	ORM1	BP	positive regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032731	FALSE	TRUE	FALSE	FALSE	FALSE
+GO:0032731	BP	IDA	5005	ORM2	BP	positive regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032731	FALSE	TRUE	FALSE	FALSE	FALSE
+GO:0032731	BP	IEA	5005	ORM2	BP	positive regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032731	FALSE	TRUE	FALSE	FALSE	FALSE
+GO:0032731	BP	IDA	5027	P2RX7	BP	positive regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032731	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032731	BP	IEA	5027	P2RX7	BP	positive regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032731	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032731	BP	IDA	24145	PANX1	BP	positive regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032731	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032731	BP	IDA	29108	PYCARD	BP	positive regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032731	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032731	BP	IEA	29108	PYCARD	BP	positive regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032731	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032731	BP	IMP	29108	PYCARD	BP	positive regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032731	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032731	BP	NAS	29108	PYCARD	BP	positive regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032731	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032731	BP	IEA	260434	PYDC1	BP	positive regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032731	FALSE	TRUE	FALSE	FALSE	FALSE
+GO:0032731	BP	IGI	260434	PYDC1	BP	positive regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032731	FALSE	TRUE	FALSE	FALSE	FALSE
+GO:0032731	BP	IDA	5970	RELA	BP	positive regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032731	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032731	BP	IDA	8767	RIPK2	BP	positive regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032731	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032731	BP	IEA	4088	SMAD3	BP	positive regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032731	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032731	BP	IGI	6774	STAT3	BP	positive regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032731	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032731	BP	IEA	647087	STMP1	BP	positive regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032731	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032731	BP	ISS	647087	STMP1	BP	positive regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032731	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032731	BP	IDA	7099	TLR4	BP	positive regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032731	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032731	BP	IEA	7099	TLR4	BP	positive regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032731	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032731	BP	ISS	7099	TLR4	BP	positive regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032731	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032731	BP	IEA	10333	TLR6	BP	positive regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032731	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032731	BP	ISS	10333	TLR6	BP	positive regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032731	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032731	BP	IDA	51311	TLR8	BP	positive regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032731	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032731	BP	IDA	7124	TNF	BP	positive regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032731	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032731	BP	IMP	10626	TRIM16	BP	positive regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032731	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032731	BP	IEA	7305	TYROBP	BP	positive regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032731	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032731	BP	ISS	7305	TYROBP	BP	positive regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032731	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032731	BP	IEA	373509	USP50	BP	positive regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032731	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032731	BP	IMP	373509	USP50	BP	positive regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032731	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032731	BP	IEA	7474	WNT5A	BP	positive regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032731	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032731	BP	IMP	7474	WNT5A	BP	positive regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032731	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032731	BP	ISS	7474	WNT5A	BP	positive regulation of interleukin-1 beta production	seed	interleukin_1_beta_production	interleukin-1 beta production	GO:0032611; GO:0032651; GO:0032731	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032741	BP	IDA	834	CASP1	BP	positive regulation of interleukin-18 production	seed	interleukin_18_production	interleukin-18 production	GO:0032621; GO:0032661; GO:0032741	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032741	BP	ISS	1660	DHX9	BP	positive regulation of interleukin-18 production	seed	interleukin_18_production	interleukin-18 production	GO:0032621; GO:0032661; GO:0032741	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032741	BP	IEA	115362	GBP5	BP	positive regulation of interleukin-18 production	seed	interleukin_18_production	interleukin-18 production	GO:0032621; GO:0032661; GO:0032741	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032741	BP	ISS	115362	GBP5	BP	positive regulation of interleukin-18 production	seed	interleukin_18_production	interleukin-18 production	GO:0032621; GO:0032661; GO:0032741	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032741	BP	IDA	79792	GSDMD	BP	positive regulation of interleukin-18 production	seed	interleukin_18_production	interleukin-18 production	GO:0032621; GO:0032661; GO:0032741	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032741	BP	ISS	338321	NLRP9	BP	positive regulation of interleukin-18 production	seed	interleukin_18_production	interleukin-18 production	GO:0032621; GO:0032661; GO:0032741	FALSE	TRUE	FALSE	FALSE	FALSE
+GO:0032741	BP	ISS	7097	TLR2	BP	positive regulation of interleukin-18 production	seed	interleukin_18_production	interleukin-18 production	GO:0032621; GO:0032661; GO:0032741	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0032741	BP	IEA	54106	TLR9	BP	positive regulation of interleukin-18 production	seed	interleukin_18_production	interleukin-18 production	GO:0032621; GO:0032661; GO:0032741	FALSE	TRUE	FALSE	FALSE	FALSE
+GO:0032741	BP	ISS	54106	TLR9	BP	positive regulation of interleukin-18 production	seed	interleukin_18_production	interleukin-18 production	GO:0032621; GO:0032661; GO:0032741	FALSE	TRUE	FALSE	FALSE	FALSE
+GO:0032741	BP	IEA	7124	TNF	BP	positive regulation of interleukin-18 production	seed	interleukin_18_production	interleukin-18 production	GO:0032621; GO:0032661; GO:0032741	FALSE	TRUE	FALSE	TRUE	TRUE
+GO:0044546	BP	NAS	3654	IRAK1	BP	NLRP3 inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0044546; GO:0140632; GO:0141084	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:0044546	BP	NAS	3656	IRAK2	BP	NLRP3 inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0044546; GO:0140632; GO:0141084	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:0044546	BP	NAS	51135	IRAK4	BP	NLRP3 inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0044546; GO:0140632; GO:0141084	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:0044546	BP	NAS	4615	MYD88	BP	NLRP3 inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0044546; GO:0140632; GO:0141084	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:0044546	BP	IDA	114548	NLRP3	BP	NLRP3 inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0044546; GO:0140632; GO:0141084	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:0044546	BP	IEA	114548	NLRP3	BP	NLRP3 inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0044546; GO:0140632; GO:0141084	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:0044546	BP	IDA	29108	PYCARD	BP	NLRP3 inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0044546; GO:0140632; GO:0141084	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:0070269	BP	IDA	9447	AIM2	BP	pyroptotic inflammatory response	seed	pyroptotic	pyroptotic	GO:0070269	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:0070269	BP	IEA	9447	AIM2	BP	pyroptotic inflammatory response	seed	pyroptotic	pyroptotic	GO:0070269	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:0070269	BP	NAS	9447	AIM2	BP	pyroptotic inflammatory response	seed	pyroptotic	pyroptotic	GO:0070269	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:0070269	BP	IMP	51074	APIP	BP	pyroptotic inflammatory response	seed	pyroptotic	pyroptotic	GO:0070269	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:0070269	BP	IDA	22900	CARD8	BP	pyroptotic inflammatory response	seed	pyroptotic	pyroptotic	GO:0070269	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:0070269	BP	IDA	834	CASP1	BP	pyroptotic inflammatory response	seed	pyroptotic	pyroptotic	GO:0070269	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:0070269	BP	NAS	834	CASP1	BP	pyroptotic inflammatory response	seed	pyroptotic	pyroptotic	GO:0070269	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:0070269	BP	IDA	836	CASP3	BP	pyroptotic inflammatory response	seed	pyroptotic	pyroptotic	GO:0070269	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:0070269	BP	IDA	837	CASP4	BP	pyroptotic inflammatory response	seed	pyroptotic	pyroptotic	GO:0070269	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:0070269	BP	IDA	839	CASP6	BP	pyroptotic inflammatory response	seed	pyroptotic	pyroptotic	GO:0070269	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:0070269	BP	ISS	841	CASP8	BP	pyroptotic inflammatory response	seed	pyroptotic	pyroptotic	GO:0070269	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:0070269	BP	ISS	1660	DHX9	BP	pyroptotic inflammatory response	seed	pyroptotic	pyroptotic	GO:0070269	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:0070269	BP	IDA	91039	DPP9	BP	pyroptotic inflammatory response	seed	pyroptotic	pyroptotic	GO:0070269	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:0070269	BP	TAS	1991	ELANE	BP	pyroptotic inflammatory response	seed	pyroptotic	pyroptotic	GO:0070269	TRUE	FALSE	FALSE	FALSE	FALSE
+GO:0070269	BP	IBA	284110	GSDMA	BP	pyroptotic inflammatory response	seed	pyroptotic	pyroptotic	GO:0070269	TRUE	FALSE	FALSE	FALSE	FALSE
+GO:0070269	BP	IDA	284110	GSDMA	BP	pyroptotic inflammatory response	seed	pyroptotic	pyroptotic	GO:0070269	TRUE	FALSE	FALSE	FALSE	FALSE
+GO:0070269	BP	IBA	55876	GSDMB	BP	pyroptotic inflammatory response	seed	pyroptotic	pyroptotic	GO:0070269	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:0070269	BP	IDA	55876	GSDMB	BP	pyroptotic inflammatory response	seed	pyroptotic	pyroptotic	GO:0070269	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:0070269	BP	IBA	56169	GSDMC	BP	pyroptotic inflammatory response	seed	pyroptotic	pyroptotic	GO:0070269	TRUE	FALSE	FALSE	FALSE	FALSE
+GO:0070269	BP	IDA	56169	GSDMC	BP	pyroptotic inflammatory response	seed	pyroptotic	pyroptotic	GO:0070269	TRUE	FALSE	FALSE	FALSE	FALSE
+GO:0070269	BP	IBA	79792	GSDMD	BP	pyroptotic inflammatory response	seed	pyroptotic	pyroptotic	GO:0070269	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:0070269	BP	IDA	79792	GSDMD	BP	pyroptotic inflammatory response	seed	pyroptotic	pyroptotic	GO:0070269	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:0070269	BP	IEA	79792	GSDMD	BP	pyroptotic inflammatory response	seed	pyroptotic	pyroptotic	GO:0070269	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:0070269	BP	ISS	79792	GSDMD	BP	pyroptotic inflammatory response	seed	pyroptotic	pyroptotic	GO:0070269	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:0070269	BP	IDA	1687	GSDME	BP	pyroptotic inflammatory response	seed	pyroptotic	pyroptotic	GO:0070269	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:0070269	BP	IEA	1687	GSDME	BP	pyroptotic inflammatory response	seed	pyroptotic	pyroptotic	GO:0070269	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:0070269	BP	IDA	3001	GZMA	BP	pyroptotic inflammatory response	seed	pyroptotic	pyroptotic	GO:0070269	TRUE	FALSE	FALSE	FALSE	FALSE
+GO:0070269	BP	IDA	3002	GZMB	BP	pyroptotic inflammatory response	seed	pyroptotic	pyroptotic	GO:0070269	TRUE	FALSE	FALSE	FALSE	FALSE
+GO:0070269	BP	TAS	3002	GZMB	BP	pyroptotic inflammatory response	seed	pyroptotic	pyroptotic	GO:0070269	TRUE	FALSE	FALSE	FALSE	FALSE
+GO:0070269	BP	IDA	3429	IFI27	BP	pyroptotic inflammatory response	seed	pyroptotic	pyroptotic	GO:0070269	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:0070269	BP	IDA	51776	MAP3K20	BP	pyroptotic inflammatory response	seed	pyroptotic	pyroptotic	GO:0070269	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:0070269	BP	NAS	4210	MEFV	BP	pyroptotic inflammatory response	seed	pyroptotic	pyroptotic	GO:0070269	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:0070269	BP	IBA	4671	NAIP	BP	pyroptotic inflammatory response	seed	pyroptotic	pyroptotic	GO:0070269	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:0070269	BP	NAS	4671	NAIP	BP	pyroptotic inflammatory response	seed	pyroptotic	pyroptotic	GO:0070269	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:0070269	BP	IEA	58484	NLRC4	BP	pyroptotic inflammatory response	seed	pyroptotic	pyroptotic	GO:0070269	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:0070269	BP	ISS	58484	NLRC4	BP	pyroptotic inflammatory response	seed	pyroptotic	pyroptotic	GO:0070269	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:0070269	BP	NAS	58484	NLRC4	BP	pyroptotic inflammatory response	seed	pyroptotic	pyroptotic	GO:0070269	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:0070269	BP	IDA	22861	NLRP1	BP	pyroptotic inflammatory response	seed	pyroptotic	pyroptotic	GO:0070269	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:0070269	BP	NAS	22861	NLRP1	BP	pyroptotic inflammatory response	seed	pyroptotic	pyroptotic	GO:0070269	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:0070269	BP	NAS	114548	NLRP3	BP	pyroptotic inflammatory response	seed	pyroptotic	pyroptotic	GO:0070269	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:0070269	BP	IEA	171389	NLRP6	BP	pyroptotic inflammatory response	seed	pyroptotic	pyroptotic	GO:0070269	TRUE	FALSE	FALSE	FALSE	FALSE
+GO:0070269	BP	ISS	338321	NLRP9	BP	pyroptotic inflammatory response	seed	pyroptotic	pyroptotic	GO:0070269	TRUE	FALSE	FALSE	FALSE	FALSE
+GO:0070269	BP	NAS	29108	PYCARD	BP	pyroptotic inflammatory response	seed	pyroptotic	pyroptotic	GO:0070269	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:0070269	BP	ISS	54209	TREM2	BP	pyroptotic inflammatory response	seed	pyroptotic	pyroptotic	GO:0070269	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:0070269	BP	IDA	6737	TRIM21	BP	pyroptotic inflammatory response	seed	pyroptotic	pyroptotic	GO:0070269	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:0070269	BP	ISS	81030	ZBP1	BP	pyroptotic inflammatory response	seed	pyroptotic	pyroptotic	GO:0070269	TRUE	FALSE	FALSE	FALSE	FALSE
+GO:0070269	BP	IEA	9839	ZEB2	BP	pyroptotic inflammatory response	seed	pyroptotic	pyroptotic	GO:0070269	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:0140632	BP	IEA	22861	NLRP1	BP	canonical inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0140632; GO:0141084	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:0140632	BP	IEA	29108	PYCARD	BP	canonical inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0140632; GO:0141084	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:0140633	BP	IDA	22900	CARD8	BP	CARD8 inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0140632; GO:0140633; GO:0141084	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:0140639	BP	IDA	836	CASP3	BP	positive regulation of pyroptotic inflammatory response	seed	pyroptotic	pyroptotic	GO:0070269; GO:0140639	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:0140639	BP	IDA	2633	GBP1	BP	positive regulation of pyroptotic inflammatory response	seed	pyroptotic	pyroptotic	GO:0070269; GO:0140639	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:0140639	BP	ISS	2634	GBP2	BP	positive regulation of pyroptotic inflammatory response	seed	pyroptotic	pyroptotic	GO:0070269; GO:0140639	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:0140639	BP	ISS	2635	GBP3	BP	positive regulation of pyroptotic inflammatory response	seed	pyroptotic	pyroptotic	GO:0070269; GO:0140639	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:0140639	BP	IEA	115362	GBP5	BP	positive regulation of pyroptotic inflammatory response	seed	pyroptotic	pyroptotic	GO:0070269; GO:0140639	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:0140639	BP	ISS	115362	GBP5	BP	positive regulation of pyroptotic inflammatory response	seed	pyroptotic	pyroptotic	GO:0070269; GO:0140639	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:0140639	BP	IDA	7185	TRAF1	BP	positive regulation of pyroptotic inflammatory response	seed	pyroptotic	pyroptotic	GO:0070269; GO:0140639	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:0140639	BP	IDA	7186	TRAF2	BP	positive regulation of pyroptotic inflammatory response	seed	pyroptotic	pyroptotic	GO:0070269; GO:0140639	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:0140639	BP	IDA	25921	ZDHHC5	BP	positive regulation of pyroptotic inflammatory response	seed	pyroptotic	pyroptotic	GO:0070269; GO:0140639	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:0140639	BP	IEA	25921	ZDHHC5	BP	positive regulation of pyroptotic inflammatory response	seed	pyroptotic	pyroptotic	GO:0070269; GO:0140639	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:0140639	BP	IDA	51114	ZDHHC9	BP	positive regulation of pyroptotic inflammatory response	seed	pyroptotic	pyroptotic	GO:0070269; GO:0140639	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:0140639	BP	IEA	51114	ZDHHC9	BP	positive regulation of pyroptotic inflammatory response	seed	pyroptotic	pyroptotic	GO:0070269; GO:0140639	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:0140739	BP	IDA	171389	NLRP6	BP	NLRP6 inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0140632; GO:0140739; GO:0141084	TRUE	FALSE	FALSE	FALSE	FALSE
+GO:0140739	BP	IEA	171389	NLRP6	BP	NLRP6 inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0140632; GO:0140739; GO:0141084	TRUE	FALSE	FALSE	FALSE	FALSE
+GO:0140970	BP	IDA	9447	AIM2	BP	AIM2 inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0140970	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:0140970	BP	IEA	9447	AIM2	BP	AIM2 inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0140970	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:0140970	BP	IDA	834	CASP1	BP	AIM2 inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0140970	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:0140972	BP	IDA	3428	IFI16	BP	negative regulation of AIM2 inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0140970; GO:0140971; GO:0140972; GO:0141084; GO:0141085; GO:0141086	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:0140972	BP	IDA	107181291	PYDC5	BP	negative regulation of AIM2 inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0140970; GO:0140971; GO:0140972; GO:0141084; GO:0141085; GO:0141086	TRUE	FALSE	FALSE	FALSE	FALSE
+GO:0140972	BP	IDA	81559	TRIM11	BP	negative regulation of AIM2 inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0140970; GO:0140971; GO:0140972; GO:0141084; GO:0141085; GO:0141086	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:0140973	BP	ISS	2634	GBP2	BP	positive regulation of AIM2 inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0140970; GO:0140971; GO:0140973; GO:0141084; GO:0141085; GO:0141087	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:0140973	BP	IEA	115362	GBP5	BP	positive regulation of AIM2 inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0140970; GO:0140971; GO:0140973; GO:0141084; GO:0141085; GO:0141087	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:0140973	BP	ISS	115362	GBP5	BP	positive regulation of AIM2 inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0140970; GO:0140971; GO:0140973; GO:0141084; GO:0141085; GO:0141087	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:0141201	BP	IDA	79792	GSDMD	BP	pyroptotic cell death	seed	pyroptotic	pyroptotic	GO:0070269; GO:0141201	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:0141201	BP	IEA	79792	GSDMD	BP	pyroptotic cell death	seed	pyroptotic	pyroptotic	GO:0070269; GO:0141201	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:0141201	BP	IDA	1687	GSDME	BP	pyroptotic cell death	seed	pyroptotic	pyroptotic	GO:0070269; GO:0141201	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:0141201	BP	IBA	4814	NINJ1	BP	pyroptotic cell death	seed	pyroptotic	pyroptotic	GO:0070269; GO:0141201	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:0141201	BP	IDA	4814	NINJ1	BP	pyroptotic cell death	seed	pyroptotic	pyroptotic	GO:0070269; GO:0141201	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:0160028	BP	IMP	407008	MIR223	BP	negative regulation of pyroptotic inflammatory response	seed	pyroptotic	pyroptotic	GO:0070269; GO:0160028	TRUE	FALSE	FALSE	FALSE	FALSE
+GO:0160075	BP	IDA	837	CASP4	BP	non-canonical inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0160075	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:0160075	BP	TAS	837	CASP4	BP	non-canonical inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0160075	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:0160075	BP	TAS	838	CASP5	BP	non-canonical inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0160075	TRUE	FALSE	FALSE	FALSE	FALSE
+GO:0160075	BP	IDA	2633	GBP1	BP	non-canonical inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0160075	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:0160075	BP	IEA	3164	NR4A1	BP	non-canonical inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0160075	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:0160075	BP	ISS	3164	NR4A1	BP	non-canonical inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0160075	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:0160076	BP	IDA	8473	OGT	BP	negative regulation of non-canonical inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0141084; GO:0141085; GO:0141086; GO:0160075; GO:0160076	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:1900225	BP	IEA	5610	EIF2AK2	BP	regulation of NLRP3 inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0044546; GO:0140632; GO:0141084; GO:0141085; GO:1900225	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:1900225	BP	ISS	5610	EIF2AK2	BP	regulation of NLRP3 inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0044546; GO:0140632; GO:0141084; GO:0141085; GO:1900225	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:1900225	BP	IEA	56659	KCNK13	BP	regulation of NLRP3 inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0044546; GO:0140632; GO:0141084; GO:0141085; GO:1900225	TRUE	FALSE	FALSE	FALSE	FALSE
+GO:1900225	BP	ISS	56659	KCNK13	BP	regulation of NLRP3 inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0044546; GO:0140632; GO:0141084; GO:0141085; GO:1900225	TRUE	FALSE	FALSE	FALSE	FALSE
+GO:1900226	BP	IDA	81926	ABHD17A	BP	negative regulation of NLRP3 inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0044546; GO:0140632; GO:0141084; GO:0141085; GO:0141086; GO:1900225; GO:1900226	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:1900226	BP	IEA	79575	ABHD8	BP	negative regulation of NLRP3 inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0044546; GO:0140632; GO:0141084; GO:0141085; GO:0141086; GO:1900225; GO:1900226	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:1900226	BP	IMP	79575	ABHD8	BP	negative regulation of NLRP3 inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0044546; GO:0140632; GO:0141084; GO:0141085; GO:0141086; GO:1900225; GO:1900226	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:1900226	BP	IDA	22900	CARD8	BP	negative regulation of NLRP3 inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0044546; GO:0140632; GO:0141084; GO:0141085; GO:0141086; GO:1900225; GO:1900226	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:1900226	BP	IMP	80772	CPTP	BP	negative regulation of NLRP3 inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0044546; GO:0140632; GO:0141084; GO:0141085; GO:0141086; GO:1900225; GO:1900226	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:1900226	BP	ISS	1452	CSNK1A1	BP	negative regulation of NLRP3 inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0044546; GO:0140632; GO:0141084; GO:0141085; GO:0141086; GO:1900225; GO:1900226	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:1900226	BP	IDA	25827	FBXL2	BP	negative regulation of NLRP3 inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0044546; GO:0140632; GO:0141084; GO:0141085; GO:0141086; GO:1900225; GO:1900226	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:1900226	BP	IDA	3312	HSPA8	BP	negative regulation of NLRP3 inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0044546; GO:0140632; GO:0141084; GO:0141085; GO:0141086; GO:1900225; GO:1900226	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:1900226	BP	IDA	345611	IRGM	BP	negative regulation of NLRP3 inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0044546; GO:0140632; GO:0141084; GO:0141085; GO:0141086; GO:1900225; GO:1900226	TRUE	FALSE	FALSE	FALSE	FALSE
+GO:1900226	BP	IDA	3920	LAMP2	BP	negative regulation of NLRP3 inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0044546; GO:0140632; GO:0141084; GO:0141085; GO:0141086; GO:1900225; GO:1900226	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:1900226	BP	IMP	4210	MEFV	BP	negative regulation of NLRP3 inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0044546; GO:0140632; GO:0141084; GO:0141085; GO:0141086; GO:1900225; GO:1900226	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:1900226	BP	IDA	197358	NLRC3	BP	negative regulation of NLRP3 inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0044546; GO:0140632; GO:0141084; GO:0141085; GO:0141086; GO:1900225; GO:1900226	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:1900226	BP	IMP	152138	PYDC2	BP	negative regulation of NLRP3 inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0044546; GO:0140632; GO:0141084; GO:0141085; GO:0141086; GO:1900225; GO:1900226	TRUE	FALSE	FALSE	FALSE	FALSE
+GO:1900226	BP	IEA	54209	TREM2	BP	negative regulation of NLRP3 inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0044546; GO:0140632; GO:0141084; GO:0141085; GO:0141086; GO:1900225; GO:1900226	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:1900226	BP	IMP	54209	TREM2	BP	negative regulation of NLRP3 inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0044546; GO:0140632; GO:0141084; GO:0141085; GO:0141086; GO:1900225; GO:1900226	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:1900226	BP	ISS	54209	TREM2	BP	negative regulation of NLRP3 inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0044546; GO:0140632; GO:0141084; GO:0141085; GO:0141086; GO:1900225; GO:1900226	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:1900226	BP	IDA	11074	TRIM31	BP	negative regulation of NLRP3 inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0044546; GO:0140632; GO:0141084; GO:0141085; GO:0141086; GO:1900225; GO:1900226	TRUE	FALSE	FALSE	FALSE	FALSE
+GO:1900226	BP	IDA	201292	TRIM65	BP	negative regulation of NLRP3 inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0044546; GO:0140632; GO:0141084; GO:0141085; GO:0141086; GO:1900225; GO:1900226	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:1900226	BP	IDA	84885	ZDHHC12	BP	negative regulation of NLRP3 inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0044546; GO:0140632; GO:0141084; GO:0141085; GO:0141086; GO:1900225; GO:1900226	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:1900227	BP	IEA	113	ADCY7	BP	positive regulation of NLRP3 inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0044546; GO:0140632; GO:0141084; GO:0141085; GO:0141087; GO:1900225; GO:1900227	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:1900227	BP	ISS	113	ADCY7	BP	positive regulation of NLRP3 inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0044546; GO:0140632; GO:0141084; GO:0141085; GO:0141087; GO:1900225; GO:1900227	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:1900227	BP	IDA	79184	BRCC3	BP	positive regulation of NLRP3 inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0044546; GO:0140632; GO:0141084; GO:0141085; GO:0141087; GO:1900225; GO:1900227	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:1900227	BP	ISS	79184	BRCC3	BP	positive regulation of NLRP3 inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0044546; GO:0140632; GO:0141084; GO:0141085; GO:0141087; GO:1900225; GO:1900227	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:1900227	BP	IDA	695	BTK	BP	positive regulation of NLRP3 inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0044546; GO:0140632; GO:0141084; GO:0141085; GO:0141087; GO:1900225; GO:1900227	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:1900227	BP	IEA	695	BTK	BP	positive regulation of NLRP3 inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0044546; GO:0140632; GO:0141084; GO:0141085; GO:0141087; GO:1900225; GO:1900227	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:1900227	BP	IDA	846	CASR	BP	positive regulation of NLRP3 inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0044546; GO:0140632; GO:0141084; GO:0141085; GO:0141087; GO:1900225; GO:1900227	TRUE	FALSE	FALSE	FALSE	FALSE
+GO:1900227	BP	IEA	846	CASR	BP	positive regulation of NLRP3 inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0044546; GO:0140632; GO:0141084; GO:0141085; GO:0141087; GO:1900225; GO:1900227	TRUE	FALSE	FALSE	FALSE	FALSE
+GO:1900227	BP	ISS	846	CASR	BP	positive regulation of NLRP3 inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0044546; GO:0140632; GO:0141084; GO:0141085; GO:0141087; GO:1900225; GO:1900227	TRUE	FALSE	FALSE	FALSE	FALSE
+GO:1900227	BP	IEA	948	CD36	BP	positive regulation of NLRP3 inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0044546; GO:0140632; GO:0141084; GO:0141085; GO:0141087; GO:1900225; GO:1900227	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:1900227	BP	ISS	948	CD36	BP	positive regulation of NLRP3 inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0044546; GO:0140632; GO:0141084; GO:0141085; GO:0141087; GO:1900225; GO:1900227	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:1900227	BP	ISS	1654	DDX3X	BP	positive regulation of NLRP3 inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0044546; GO:0140632; GO:0141084; GO:0141085; GO:0141087; GO:1900225; GO:1900227	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:1900227	BP	IDA	56919	DHX33	BP	positive regulation of NLRP3 inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0044546; GO:0140632; GO:0141084; GO:0141085; GO:0141087; GO:1900225; GO:1900227	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:1900227	BP	IDA	115362	GBP5	BP	positive regulation of NLRP3 inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0044546; GO:0140632; GO:0141084; GO:0141085; GO:0141087; GO:1900225; GO:1900227	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:1900227	BP	IEA	9424	KCNK6	BP	positive regulation of NLRP3 inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0044546; GO:0140632; GO:0141084; GO:0141085; GO:0141087; GO:1900225; GO:1900227	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:1900227	BP	ISS	9424	KCNK6	BP	positive regulation of NLRP3 inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0044546; GO:0140632; GO:0141084; GO:0141085; GO:0141087; GO:1900225; GO:1900227	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:1900227	BP	IDA	9113	LATS1	BP	positive regulation of NLRP3 inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0044546; GO:0140632; GO:0141084; GO:0141085; GO:0141087; GO:1900225; GO:1900227	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:1900227	BP	IEA	9113	LATS1	BP	positive regulation of NLRP3 inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0044546; GO:0140632; GO:0141084; GO:0141085; GO:0141087; GO:1900225; GO:1900227	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:1900227	BP	IDA	26524	LATS2	BP	positive regulation of NLRP3 inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0044546; GO:0140632; GO:0141084; GO:0141085; GO:0141087; GO:1900225; GO:1900227	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:1900227	BP	IEA	26524	LATS2	BP	positive regulation of NLRP3 inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0044546; GO:0140632; GO:0141084; GO:0141085; GO:0141087; GO:1900225; GO:1900227	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:1900227	BP	IDA	5599	MAPK8	BP	positive regulation of NLRP3 inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0044546; GO:0140632; GO:0141084; GO:0141085; GO:0141087; GO:1900225; GO:1900227	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:1900227	BP	IDA	54708	MARCHF5	BP	positive regulation of NLRP3 inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0044546; GO:0140632; GO:0141084; GO:0141085; GO:0141087; GO:1900225; GO:1900227	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:1900227	BP	IDA	57787	MARK4	BP	positive regulation of NLRP3 inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0044546; GO:0140632; GO:0141084; GO:0141085; GO:0141087; GO:1900225; GO:1900227	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:1900227	BP	IEA	57787	MARK4	BP	positive regulation of NLRP3 inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0044546; GO:0140632; GO:0141084; GO:0141085; GO:0141087; GO:1900225; GO:1900227	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:1900227	BP	IDA	57506	MAVS	BP	positive regulation of NLRP3 inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0044546; GO:0140632; GO:0141084; GO:0141085; GO:0141087; GO:1900225; GO:1900227	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:1900227	BP	IEA	57506	MAVS	BP	positive regulation of NLRP3 inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0044546; GO:0140632; GO:0141084; GO:0141085; GO:0141087; GO:1900225; GO:1900227	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:1900227	BP	IMP	4615	MYD88	BP	positive regulation of NLRP3 inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0044546; GO:0140632; GO:0141084; GO:0141085; GO:0141087; GO:1900225; GO:1900227	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:1900227	BP	IBA	140609	NEK7	BP	positive regulation of NLRP3 inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0044546; GO:0140632; GO:0141084; GO:0141085; GO:0141087; GO:1900225; GO:1900227	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:1900227	BP	IDA	140609	NEK7	BP	positive regulation of NLRP3 inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0044546; GO:0140632; GO:0141084; GO:0141085; GO:0141087; GO:1900225; GO:1900227	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:1900227	BP	IEA	140609	NEK7	BP	positive regulation of NLRP3 inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0044546; GO:0140632; GO:0141084; GO:0141085; GO:0141087; GO:1900225; GO:1900227	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:1900227	BP	IEA	5027	P2RX7	BP	positive regulation of NLRP3 inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0044546; GO:0140632; GO:0141084; GO:0141085; GO:0141087; GO:1900225; GO:1900227	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:1900227	BP	ISS	5027	P2RX7	BP	positive regulation of NLRP3 inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0044546; GO:0140632; GO:0141084; GO:0141085; GO:0141087; GO:1900225; GO:1900227	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:1900227	BP	IMP	5336	PLCG2	BP	positive regulation of NLRP3 inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0044546; GO:0140632; GO:0141084; GO:0141085; GO:0141087; GO:1900225; GO:1900227	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:1900227	BP	IEA	5515	PPP2CA	BP	positive regulation of NLRP3 inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0044546; GO:0140632; GO:0141084; GO:0141085; GO:0141087; GO:1900225; GO:1900227	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:1900227	BP	ISS	5515	PPP2CA	BP	positive regulation of NLRP3 inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0044546; GO:0140632; GO:0141084; GO:0141085; GO:0141087; GO:1900225; GO:1900227	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:1900227	BP	IEA	5587	PRKD1	BP	positive regulation of NLRP3 inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0044546; GO:0140632; GO:0141084; GO:0141085; GO:0141087; GO:1900225; GO:1900227	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:1900227	BP	ISS	5587	PRKD1	BP	positive regulation of NLRP3 inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0044546; GO:0140632; GO:0141084; GO:0141085; GO:0141087; GO:1900225; GO:1900227	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:1900227	BP	IDA	26191	PTPN22	BP	positive regulation of NLRP3 inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0044546; GO:0140632; GO:0141084; GO:0141085; GO:0141087; GO:1900225; GO:1900227	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:1900227	BP	IEA	647087	STMP1	BP	positive regulation of NLRP3 inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0044546; GO:0140632; GO:0141084; GO:0141085; GO:0141087; GO:1900225; GO:1900227	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:1900227	BP	ISS	647087	STMP1	BP	positive regulation of NLRP3 inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0044546; GO:0140632; GO:0141084; GO:0141085; GO:0141087; GO:1900225; GO:1900227	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:1900227	BP	IEA	7099	TLR4	BP	positive regulation of NLRP3 inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0044546; GO:0140632; GO:0141084; GO:0141085; GO:0141087; GO:1900225; GO:1900227	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:1900227	BP	ISS	7099	TLR4	BP	positive regulation of NLRP3 inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0044546; GO:0140632; GO:0141084; GO:0141085; GO:0141087; GO:1900225; GO:1900227	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:1900227	BP	IEA	10333	TLR6	BP	positive regulation of NLRP3 inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0044546; GO:0140632; GO:0141084; GO:0141085; GO:0141087; GO:1900225; GO:1900227	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:1900227	BP	ISS	10333	TLR6	BP	positive regulation of NLRP3 inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0044546; GO:0140632; GO:0141084; GO:0141085; GO:0141087; GO:1900225; GO:1900227	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:1900227	BP	IEA	54106	TLR9	BP	positive regulation of NLRP3 inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0044546; GO:0140632; GO:0141084; GO:0141085; GO:0141087; GO:1900225; GO:1900227	TRUE	FALSE	FALSE	FALSE	FALSE
+GO:1900227	BP	ISS	54106	TLR9	BP	positive regulation of NLRP3 inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0044546; GO:0140632; GO:0141084; GO:0141085; GO:0141087; GO:1900225; GO:1900227	TRUE	FALSE	FALSE	FALSE	FALSE
+GO:1900227	BP	IEA	373509	USP50	BP	positive regulation of NLRP3 inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0044546; GO:0140632; GO:0141084; GO:0141085; GO:0141087; GO:1900225; GO:1900227	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:1900227	BP	IMP	373509	USP50	BP	positive regulation of NLRP3 inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0044546; GO:0140632; GO:0141084; GO:0141085; GO:0141087; GO:1900225; GO:1900227	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:1900227	BP	IDA	29800	ZDHHC1	BP	positive regulation of NLRP3 inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0044546; GO:0140632; GO:0141084; GO:0141085; GO:0141087; GO:1900225; GO:1900227	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:1900227	BP	IDA	25921	ZDHHC5	BP	positive regulation of NLRP3 inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0044546; GO:0140632; GO:0141084; GO:0141085; GO:0141087; GO:1900225; GO:1900227	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:1902483	BP	IDA	55876	GSDMB	BP	cytotoxic T cell pyroptotic cell death	seed	pyroptotic	pyroptotic	GO:0070269; GO:0141201; GO:1902483	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:1902483	BP	IDA	3001	GZMA	BP	cytotoxic T cell pyroptotic cell death	seed	pyroptotic	pyroptotic	GO:0070269; GO:0141201; GO:1902483	TRUE	FALSE	FALSE	FALSE	FALSE
+GO:1904784	BP	IDA	22861	NLRP1	BP	NLRP1 inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0140632; GO:0141084; GO:1904784	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:1904784	BP	IMP	22861	NLRP1	BP	NLRP1 inflammasome complex assembly	seed	inflammasome	inflammasome	GO:0140632; GO:0141084; GO:1904784	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:0061702	CC	IEA	9447	AIM2	CC	canonical inflammasome complex	seed	inflammasome	inflammasome	GO:0061702	TRUE	FALSE	TRUE	TRUE	TRUE
+GO:0061702	CC	IDA	22900	CARD8	CC	canonical inflammasome complex	seed	inflammasome	inflammasome	GO:0061702	TRUE	FALSE	TRUE	TRUE	TRUE
+GO:0061702	CC	IEA	22900	CARD8	CC	canonical inflammasome complex	seed	inflammasome	inflammasome	GO:0061702	TRUE	FALSE	TRUE	TRUE	TRUE
+GO:0061702	CC	IEA	837	CASP4	CC	canonical inflammasome complex	seed	inflammasome	inflammasome	GO:0061702	TRUE	FALSE	TRUE	TRUE	TRUE
+GO:0061702	CC	IEA	1654	DDX3X	CC	canonical inflammasome complex	seed	inflammasome	inflammasome	GO:0061702	TRUE	FALSE	TRUE	TRUE	TRUE
+GO:0061702	CC	IEA	56919	DHX33	CC	canonical inflammasome complex	seed	inflammasome	inflammasome	GO:0061702	TRUE	FALSE	TRUE	TRUE	TRUE
+GO:0061702	CC	IEA	79792	GSDMD	CC	canonical inflammasome complex	seed	inflammasome	inflammasome	GO:0061702	TRUE	FALSE	TRUE	TRUE	TRUE
+GO:0061702	CC	IEA	58484	NLRC4	CC	canonical inflammasome complex	seed	inflammasome	inflammasome	GO:0061702	TRUE	FALSE	TRUE	TRUE	TRUE
+GO:0061702	CC	IDA	22861	NLRP1	CC	canonical inflammasome complex	seed	inflammasome	inflammasome	GO:0061702	TRUE	FALSE	TRUE	TRUE	TRUE
+GO:0061702	CC	IEA	22861	NLRP1	CC	canonical inflammasome complex	seed	inflammasome	inflammasome	GO:0061702	TRUE	FALSE	TRUE	TRUE	TRUE
+GO:0061702	CC	IEA	114548	NLRP3	CC	canonical inflammasome complex	seed	inflammasome	inflammasome	GO:0061702	TRUE	FALSE	TRUE	TRUE	TRUE
+GO:0061702	CC	IBA	171389	NLRP6	CC	canonical inflammasome complex	seed	inflammasome	inflammasome	GO:0061702	TRUE	FALSE	TRUE	FALSE	FALSE
+GO:0061702	CC	IEA	171389	NLRP6	CC	canonical inflammasome complex	seed	inflammasome	inflammasome	GO:0061702	TRUE	FALSE	TRUE	FALSE	FALSE
+GO:0061702	CC	IBA	338321	NLRP9	CC	canonical inflammasome complex	seed	inflammasome	inflammasome	GO:0061702	TRUE	FALSE	TRUE	FALSE	FALSE
+GO:0061702	CC	IDA	338321	NLRP9	CC	canonical inflammasome complex	seed	inflammasome	inflammasome	GO:0061702	TRUE	FALSE	TRUE	FALSE	FALSE
+GO:0061702	CC	IEA	338321	NLRP9	CC	canonical inflammasome complex	seed	inflammasome	inflammasome	GO:0061702	TRUE	FALSE	TRUE	FALSE	FALSE
+GO:0061702	CC	IEA	29108	PYCARD	CC	canonical inflammasome complex	seed	inflammasome	inflammasome	GO:0061702	TRUE	FALSE	TRUE	TRUE	TRUE
+GO:0072557	CC	IBA	834	CASP1	CC	IPAF inflammasome complex	seed	inflammasome	inflammasome	GO:0061702; GO:0072557	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:0072557	CC	ISS	834	CASP1	CC	IPAF inflammasome complex	seed	inflammasome	inflammasome	GO:0061702; GO:0072557	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:0072557	CC	IBA	4671	NAIP	CC	IPAF inflammasome complex	seed	inflammasome	inflammasome	GO:0061702; GO:0072557	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:0072557	CC	IEA	58484	NLRC4	CC	IPAF inflammasome complex	seed	inflammasome	inflammasome	GO:0061702; GO:0072557	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:0072557	CC	ISS	58484	NLRC4	CC	IPAF inflammasome complex	seed	inflammasome	inflammasome	GO:0061702; GO:0072557	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:0072558	CC	IDA	834	CASP1	CC	NLRP1 inflammasome complex	seed	inflammasome	inflammasome	GO:0061702; GO:0072558	TRUE	FALSE	TRUE	TRUE	TRUE
+GO:0072558	CC	IBA	100506742	CASP12	CC	NLRP1 inflammasome complex	seed	inflammasome	inflammasome	GO:0061702; GO:0072558	TRUE	FALSE	TRUE	FALSE	FALSE
+GO:0072558	CC	IBA	837	CASP4	CC	NLRP1 inflammasome complex	seed	inflammasome	inflammasome	GO:0061702; GO:0072558	TRUE	FALSE	TRUE	TRUE	TRUE
+GO:0072558	CC	IBA	838	CASP5	CC	NLRP1 inflammasome complex	seed	inflammasome	inflammasome	GO:0061702; GO:0072558	TRUE	FALSE	TRUE	FALSE	FALSE
+GO:0072558	CC	IDA	838	CASP5	CC	NLRP1 inflammasome complex	seed	inflammasome	inflammasome	GO:0061702; GO:0072558	TRUE	FALSE	TRUE	FALSE	FALSE
+GO:0072558	CC	IDA	22861	NLRP1	CC	NLRP1 inflammasome complex	seed	inflammasome	inflammasome	GO:0061702; GO:0072558	TRUE	FALSE	TRUE	TRUE	TRUE
+GO:0072558	CC	IEA	22861	NLRP1	CC	NLRP1 inflammasome complex	seed	inflammasome	inflammasome	GO:0061702; GO:0072558	TRUE	FALSE	TRUE	TRUE	TRUE
+GO:0072558	CC	ISS	22861	NLRP1	CC	NLRP1 inflammasome complex	seed	inflammasome	inflammasome	GO:0061702; GO:0072558	TRUE	FALSE	TRUE	TRUE	TRUE
+GO:0072558	CC	TAS	22861	NLRP1	CC	NLRP1 inflammasome complex	seed	inflammasome	inflammasome	GO:0061702; GO:0072558	TRUE	FALSE	TRUE	TRUE	TRUE
+GO:0072558	CC	IDA	29108	PYCARD	CC	NLRP1 inflammasome complex	seed	inflammasome	inflammasome	GO:0061702; GO:0072558	TRUE	FALSE	TRUE	TRUE	TRUE
+GO:0072558	CC	IEA	29108	PYCARD	CC	NLRP1 inflammasome complex	seed	inflammasome	inflammasome	GO:0061702; GO:0072558	TRUE	FALSE	TRUE	TRUE	TRUE
+GO:0072559	CC	IBA	22900	CARD8	CC	NLRP3 inflammasome complex	seed	inflammasome	inflammasome	GO:0061702; GO:0072559	TRUE	FALSE	TRUE	TRUE	TRUE
+GO:0072559	CC	IDA	22900	CARD8	CC	NLRP3 inflammasome complex	seed	inflammasome	inflammasome	GO:0061702; GO:0072559	TRUE	FALSE	TRUE	TRUE	TRUE
+GO:0072559	CC	IBA	834	CASP1	CC	NLRP3 inflammasome complex	seed	inflammasome	inflammasome	GO:0061702; GO:0072559	TRUE	FALSE	TRUE	TRUE	TRUE
+GO:0072559	CC	IDA	834	CASP1	CC	NLRP3 inflammasome complex	seed	inflammasome	inflammasome	GO:0061702; GO:0072559	TRUE	FALSE	TRUE	TRUE	TRUE
+GO:0072559	CC	ISS	1654	DDX3X	CC	NLRP3 inflammasome complex	seed	inflammasome	inflammasome	GO:0061702; GO:0072559	TRUE	FALSE	TRUE	TRUE	TRUE
+GO:0072559	CC	IDA	56919	DHX33	CC	NLRP3 inflammasome complex	seed	inflammasome	inflammasome	GO:0061702; GO:0072559	TRUE	FALSE	TRUE	TRUE	TRUE
+GO:0072559	CC	IBA	79792	GSDMD	CC	NLRP3 inflammasome complex	seed	inflammasome	inflammasome	GO:0061702; GO:0072559	TRUE	FALSE	TRUE	TRUE	TRUE
+GO:0072559	CC	IEA	79792	GSDMD	CC	NLRP3 inflammasome complex	seed	inflammasome	inflammasome	GO:0061702; GO:0072559	TRUE	FALSE	TRUE	TRUE	TRUE
+GO:0072559	CC	ISS	79792	GSDMD	CC	NLRP3 inflammasome complex	seed	inflammasome	inflammasome	GO:0061702; GO:0072559	TRUE	FALSE	TRUE	TRUE	TRUE
+GO:0072559	CC	IBA	22861	NLRP1	CC	NLRP3 inflammasome complex	seed	inflammasome	inflammasome	GO:0061702; GO:0072559	TRUE	FALSE	TRUE	TRUE	TRUE
+GO:0072559	CC	IBA	114548	NLRP3	CC	NLRP3 inflammasome complex	seed	inflammasome	inflammasome	GO:0061702; GO:0072559	TRUE	FALSE	TRUE	TRUE	TRUE
+GO:0072559	CC	IDA	114548	NLRP3	CC	NLRP3 inflammasome complex	seed	inflammasome	inflammasome	GO:0061702; GO:0072559	TRUE	FALSE	TRUE	TRUE	TRUE
+GO:0072559	CC	IEA	114548	NLRP3	CC	NLRP3 inflammasome complex	seed	inflammasome	inflammasome	GO:0061702; GO:0072559	TRUE	FALSE	TRUE	TRUE	TRUE
+GO:0072559	CC	IBA	29108	PYCARD	CC	NLRP3 inflammasome complex	seed	inflammasome	inflammasome	GO:0061702; GO:0072559	TRUE	FALSE	TRUE	TRUE	TRUE
+GO:0072559	CC	IDA	29108	PYCARD	CC	NLRP3 inflammasome complex	seed	inflammasome	inflammasome	GO:0061702; GO:0072559	TRUE	FALSE	TRUE	TRUE	TRUE
+GO:0097169	CC	IBA	9447	AIM2	CC	AIM2 inflammasome complex	seed	inflammasome	inflammasome	GO:0061702; GO:0097169	TRUE	FALSE	TRUE	TRUE	TRUE
+GO:0097169	CC	IDA	9447	AIM2	CC	AIM2 inflammasome complex	seed	inflammasome	inflammasome	GO:0061702; GO:0097169	TRUE	FALSE	TRUE	TRUE	TRUE
+GO:0097169	CC	IEA	9447	AIM2	CC	AIM2 inflammasome complex	seed	inflammasome	inflammasome	GO:0061702; GO:0097169	TRUE	FALSE	TRUE	TRUE	TRUE
+GO:0097169	CC	IBA	834	CASP1	CC	AIM2 inflammasome complex	seed	inflammasome	inflammasome	GO:0061702; GO:0097169	TRUE	FALSE	TRUE	TRUE	TRUE
+GO:0097169	CC	IDA	834	CASP1	CC	AIM2 inflammasome complex	seed	inflammasome	inflammasome	GO:0061702; GO:0097169	TRUE	FALSE	TRUE	TRUE	TRUE
+GO:0097169	CC	IDA	29108	PYCARD	CC	AIM2 inflammasome complex	seed	inflammasome	inflammasome	GO:0061702; GO:0097169	TRUE	FALSE	TRUE	TRUE	TRUE
+GO:0140634	CC	IDA	22900	CARD8	CC	CARD8 inflammasome complex	seed	inflammasome	inflammasome	GO:0061702; GO:0140634	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:0140738	CC	IDA	171389	NLRP6	CC	NLRP6 inflammasome complex	seed	inflammasome	inflammasome	GO:0061702; GO:0140738	TRUE	FALSE	FALSE	FALSE	FALSE
+GO:0140738	CC	IEA	171389	NLRP6	CC	NLRP6 inflammasome complex	seed	inflammasome	inflammasome	GO:0061702; GO:0140738	TRUE	FALSE	FALSE	FALSE	FALSE
+GO:0140738	CC	IDA	29108	PYCARD	CC	NLRP6 inflammasome complex	seed	inflammasome	inflammasome	GO:0061702; GO:0140738	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:0140738	CC	IEA	29108	PYCARD	CC	NLRP6 inflammasome complex	seed	inflammasome	inflammasome	GO:0061702; GO:0140738	TRUE	FALSE	FALSE	TRUE	TRUE
+GO:0160074	CC	IDA	837	CASP4	CC	non-canonical inflammasome complex	seed	inflammasome	inflammasome	GO:0160074	TRUE	FALSE	FALSE	TRUE	TRUE

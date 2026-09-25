@@ -1,0 +1,42 @@
+go_id	ontology	term_name	in_core_branch	in_downstream_branch	is_anchor	measured_ranked_genes	gsea_eligible	exclusion_reason
+GO:0032731	BP	positive regulation of interleukin-1 beta production	FALSE	TRUE	FALSE	52	TRUE	
+GO:0032691	BP	negative regulation of interleukin-1 beta production	FALSE	TRUE	FALSE	27	TRUE	
+GO:1900227	BP	positive regulation of NLRP3 inflammasome complex assembly	TRUE	FALSE	FALSE	27	TRUE	
+GO:0070269	BP	pyroptotic inflammatory response	TRUE	FALSE	FALSE	24	TRUE	
+GO:1900226	BP	negative regulation of NLRP3 inflammasome complex assembly	TRUE	FALSE	FALSE	13	TRUE	
+GO:0061702	CC	canonical inflammasome complex	TRUE	FALSE	TRUE	10	TRUE	
+GO:0032651	BP	regulation of interleukin-1 beta production	FALSE	TRUE	FALSE	9	TRUE	
+GO:0140639	BP	positive regulation of pyroptotic inflammatory response	TRUE	FALSE	FALSE	9	TRUE	
+GO:0072559	CC	NLRP3 inflammasome complex	TRUE	FALSE	TRUE	8	TRUE	
+GO:0032741	BP	positive regulation of interleukin-18 production	FALSE	TRUE	FALSE	6	TRUE	
+GO:0044546	BP	NLRP3 inflammasome complex assembly	TRUE	FALSE	FALSE	6	TRUE	
+GO:0072558	CC	NLRP1 inflammasome complex	TRUE	FALSE	TRUE	4	FALSE	fewer_than_5_ranked_genes
+GO:0072557	CC	IPAF inflammasome complex	TRUE	FALSE	FALSE	3	FALSE	fewer_than_5_ranked_genes
+GO:0097169	CC	AIM2 inflammasome complex	TRUE	FALSE	TRUE	3	FALSE	fewer_than_5_ranked_genes
+GO:0141201	BP	pyroptotic cell death	TRUE	FALSE	FALSE	3	FALSE	fewer_than_5_ranked_genes
+GO:0160075	BP	non-canonical inflammasome complex assembly	TRUE	FALSE	FALSE	3	FALSE	fewer_than_5_ranked_genes
+GO:0140632	BP	canonical inflammasome complex assembly	TRUE	FALSE	FALSE	2	FALSE	fewer_than_5_ranked_genes
+GO:0140970	BP	AIM2 inflammasome complex assembly	TRUE	FALSE	FALSE	2	FALSE	fewer_than_5_ranked_genes
+GO:0140972	BP	negative regulation of AIM2 inflammasome complex assembly	TRUE	FALSE	FALSE	2	FALSE	fewer_than_5_ranked_genes
+GO:0140973	BP	positive regulation of AIM2 inflammasome complex assembly	TRUE	FALSE	FALSE	2	FALSE	fewer_than_5_ranked_genes
+GO:0032661	BP	regulation of interleukin-18 production	FALSE	TRUE	FALSE	1	FALSE	fewer_than_5_ranked_genes
+GO:0032701	BP	negative regulation of interleukin-18 production	FALSE	TRUE	FALSE	1	FALSE	fewer_than_5_ranked_genes
+GO:0140633	BP	CARD8 inflammasome complex assembly	TRUE	FALSE	FALSE	1	FALSE	fewer_than_5_ranked_genes
+GO:0140634	CC	CARD8 inflammasome complex	TRUE	FALSE	FALSE	1	FALSE	fewer_than_5_ranked_genes
+GO:0140738	CC	NLRP6 inflammasome complex	TRUE	FALSE	FALSE	1	FALSE	fewer_than_5_ranked_genes
+GO:0160074	CC	non-canonical inflammasome complex	TRUE	FALSE	FALSE	1	FALSE	fewer_than_5_ranked_genes
+GO:0160076	BP	negative regulation of non-canonical inflammasome complex assembly	TRUE	FALSE	FALSE	1	FALSE	fewer_than_5_ranked_genes
+GO:1900225	BP	regulation of NLRP3 inflammasome complex assembly	TRUE	FALSE	FALSE	1	FALSE	fewer_than_5_ranked_genes
+GO:1902483	BP	cytotoxic T cell pyroptotic cell death	TRUE	FALSE	FALSE	1	FALSE	fewer_than_5_ranked_genes
+GO:1904784	BP	NLRP1 inflammasome complex assembly	TRUE	FALSE	FALSE	1	FALSE	fewer_than_5_ranked_genes
+GO:0032611	BP	interleukin-1 beta production	FALSE	TRUE	FALSE	0	FALSE	fewer_than_5_ranked_genes
+GO:0032621	BP	interleukin-18 production	FALSE	TRUE	FALSE	0	FALSE	fewer_than_5_ranked_genes
+GO:0140739	BP	NLRP6 inflammasome complex assembly	TRUE	FALSE	FALSE	0	FALSE	fewer_than_5_ranked_genes
+GO:0140971	BP	regulation of AIM2 inflammasome complex assembly	TRUE	FALSE	FALSE	0	FALSE	fewer_than_5_ranked_genes
+GO:0141079	BP	symbiont-mediated activation of host inflammasome-mediated signal transduction	TRUE	FALSE	FALSE	0	FALSE	fewer_than_5_ranked_genes
+GO:0141081	BP	symbiont-mediated suppression of host inflammasome-mediated signal transduction	TRUE	FALSE	FALSE	0	FALSE	fewer_than_5_ranked_genes
+GO:0141084	BP	inflammasome-mediated signaling pathway	TRUE	FALSE	FALSE	0	FALSE	fewer_than_5_ranked_genes
+GO:0141085	BP	regulation of inflammasome-mediated signaling pathway	TRUE	FALSE	FALSE	0	FALSE	fewer_than_5_ranked_genes
+GO:0141086	BP	negative regulation of inflammasome-mediated signaling pathway	TRUE	FALSE	FALSE	0	FALSE	fewer_than_5_ranked_genes
+GO:0141087	BP	positive regulation of inflammasome-mediated signaling pathway	TRUE	FALSE	FALSE	0	FALSE	fewer_than_5_ranked_genes
+GO:0160028	BP	negative regulation of pyroptotic inflammatory response	TRUE	FALSE	FALSE	0	FALSE	fewer_than_5_ranked_genes

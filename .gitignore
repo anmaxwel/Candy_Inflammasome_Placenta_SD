@@ -1,0 +1,13 @@
+data/raw/
+*.csv.gz
+*.Rproj.user
+.Rhistory
+.RData
+.r-local/
+.r-user/
+.r-cache/
+.r-tmp/
+.renv-cache/
+renv/library/
+renv/cache/
+renv/staging/
